@@ -6,7 +6,10 @@
 **Tema:**  Servicios web  
 **Correo:** daniel.barragan at correo.icesi.edu.co  
   
-**Estudiantes:** Carlos Andrés Afanador - A00054652 , Ana Fernanda Valderrama - A00065868 , Julian David Gonzalez - A00315288 .  
+**Estudiantes:** 
+* Carlos Andrés Afanador - A00054652  
+* Ana Fernanda Valderrama - A00065868   
+* Julian David Gonzalez - A00315288    
 **URLGit:** https://github.com/AnaValderrama25/so-project/tree/A00065868/A00065868
 
 ## Objetivos
