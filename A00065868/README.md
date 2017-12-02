@@ -60,10 +60,12 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   ![][3]  
   * Se configura manualmente la interfaz enp0s8, con una dirección IP y un gateway predeterminado, y se reinicia el servicio de red  
   ![][4]  
-  Para acceder desde Multiputty y que sea posible usar screen, es necesario desactivar el firewall si estaba activado:  
+  Para acceder desde Multiputty y que sea posible usar screen, es necesario desactivar el firewall si esta activado:  
+    
   ```  
   $ sudo ufw disable
   ```  
+    
   * Luego de haber iniciado sesión en Multiputty se activa el firewall y se habilita el puerto necesario 8080:  
   ```  
   $ sudo ufw enable  
