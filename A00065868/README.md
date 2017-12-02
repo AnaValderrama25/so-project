@@ -92,12 +92,14 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   ```  
   ![][8]  
   La anterior es el resultado de acceder desde el navegador al servicio solicitando la información de un recurso:  
-  | **Recurso solicitado** | **Browser**  |
-  | --- | --- |
-  | Memoria | ![][9] |
-  | CPU | ![][10] |
-  | Espacio en disco | ![][11] |
-  | Conexiones | ![][12] |  
+    
+    
+| **Recurso solicitado** | **Browser**  |  
+| --- | --- |  
+| Memoria | ![][9] |  
+| CPU | ![][10] |  
+| Espacio en disco | ![][11] |  
+| Conexiones | ![][12] |   
   
   * El servicio se valida además de accediendo por el navegador, se emplea en la consola de windows y en el UbuntuServer el comando netsat, donde se puede observar que en windows la dirección remota pertenece a la que se asignó en los primeros pasos y esta conectada por ssh y desde  UbuntuServer la dirección que asignamos es la local y la remota es la que windows tiene como local, se muestra que están activos los servicios ssh y http.  
   ![][13]  
